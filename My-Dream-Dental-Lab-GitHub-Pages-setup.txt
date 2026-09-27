@@ -1,0 +1,8 @@
+My Dream Dental Lab
+Repository: https://github.com/helmyanan7-droid/Helmy-dental-lab.git
+Pages URL: https://helmyanan7-droid.github.io/Helmy-dental-lab/
+Payment URL: https://helmyanan7-droid.github.io/Helmy-dental-lab/payment.html
+Phone: 01063930960
+Upload these two files to the root of main: index.html and payment.html.
+Enable GitHub Pages: Settings > Pages > Deploy from a branch > main > / (root).
+The QR encodes the payment URL above.
